@@ -12,7 +12,7 @@
 		},
 		"dataSources": {
 			"invoiceRemote": {
-				"uri": "/destinations/northwind/V2/Northwind/Northwind.svc/",
+				"uri": "http://localhost:5000/datasource",
 				"type": "OData",
 				"settings": {
 					"odataVersion": "2.0"
