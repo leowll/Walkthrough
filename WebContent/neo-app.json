@@ -1,7 +1,7 @@
 {
   "routes": [
     {
-      "path": "/destinations/northwind",
+      "path": "/datasource",
       "target": {
         "type": "destination",
         "name": "northwind"
